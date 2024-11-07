@@ -1,0 +1,4 @@
+.user-table-container {
+    max-height: 15rem;
+    overflow-y: auto; 
+}

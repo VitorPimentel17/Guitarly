@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1300 200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1e1e1e" />
+
+  <!-- Frets -->
+  <line x1="3.85%" y1="0" x2="3.85%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="7.7%" y1="0" x2="7.7%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="11.54%" y1="0" x2="11.54%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="15.38%" y1="0" x2="15.38%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="19.23%" y1="0" x2="19.23%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="23.08%" y1="0" x2="23.08%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="26.92%" y1="0" x2="26.92%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="30.77%" y1="0" x2="30.77%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="34.62%" y1="0" x2="34.62%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="38.46%" y1="0" x2="38.46%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="42.31%" y1="0" x2="42.31%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="46.15%" y1="0" x2="46.15%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="50%" y1="0" x2="50%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="53.85%" y1="0" x2="53.85%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="57.69%" y1="0" x2="57.69%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="61.54%" y1="0" x2="61.54%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="65.38%" y1="0" x2="65.38%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="69.23%" y1="0" x2="69.23%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="73.08%" y1="0" x2="73.08%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="76.92%" y1="0" x2="76.92%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="80.77%" y1="0" x2="80.77%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="84.62%" y1="0" x2="84.62%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="88.46%" y1="0" x2="88.46%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="92.31%" y1="0" x2="92.31%" y2="100%" stroke="#ccc" stroke-width="2" />
+  <line x1="96.15%" y1="0" x2="96.15%" y2="100%" stroke="#ccc" stroke-width="2" />
+
+  <!-- Strings -->
+  <line x1="0" y1="10%" x2="100%" y2="10%" stroke="#888" stroke-width="2" />
+  <line x1="0" y1="25%" x2="100%" y2="25%" stroke="#888" stroke-width="2" />
+  <line x1="0" y1="40%" x2="100%" y2="40%" stroke="#888" stroke-width="2" />
+  <line x1="0" y1="55%" x2="100%" y2="55%" stroke="#888" stroke-width="2" />
+  <line x1="0" y1="70%" x2="100%" y2="70%" stroke="#888" stroke-width="2" />
+  <line x1="0" y1="85%" x2="100%" y2="85%" stroke="#888" stroke-width="2" />
+
+  <!-- Fret markers -->
+  <circle cx="9.62%" cy="50%" r="5" fill="#fff" stroke="#000" stroke-width="1" />
+  <circle cx="28.85%" cy="50%" r="5" fill="#fff" stroke="#000" stroke-width="1" />
+  <circle cx="48.08%" cy="50%" r="5" fill="#fff" stroke="#000" stroke-width="1" />
+  <circle cx="67.31%" cy="50%" r="5" fill="#fff" stroke="#000" stroke-width="1" />
+  <circle cx="86.54%" cy="50%" r="5" fill="#fff" stroke="#000" stroke-width="1" />
+</svg>
