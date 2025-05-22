@@ -45,18 +45,18 @@ npm run dev
 npm run make
 ```
 
-📍 Roadmap
-✅ Guitar & Bass tab editing
+##📍 Roadmap
+- ✅ Guitar & Bass tab editing
 
-✅ Fretboard integration
+- ✅ Fretboard integration
 
-✅ Dark/light theme toggle
+- ✅ Dark/light theme toggle
 
-⏳ MIDI export/import
+- ⏳ MIDI export/import
 
-⏳ Drum tab editor
+- ⏳ Drum tab editor
 
-👨‍💻 Author
-Vitor da Cunha Pimentel da Rosa
+##👨‍💻 Author
+- Vitor da Cunha Pimentel da Rosa
 
 
