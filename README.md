@@ -45,7 +45,7 @@ npm run dev
 npm run make
 ```
 
-##📍 Roadmap
+## 📍 Roadmap
 - ✅ Guitar & Bass tab editing
 
 - ✅ Fretboard integration
@@ -56,7 +56,7 @@ npm run make
 
 - ⏳ Drum tab editor
 
-##👨‍💻 Author
+## 👨‍💻 Author
 - Vitor da Cunha Pimentel da Rosa
 
 
